@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @berithan
+- 👀 I’m interested in programming language and coding 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on full stack web development
+- 📫 reach out to me on Linkedin url: https://www.linkedin.com/in/niyotwagira-beritha-0326861a3/
